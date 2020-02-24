@@ -1,0 +1,19 @@
+{
+  "name": "validator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./index.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "baretest": "^1.0.0"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
